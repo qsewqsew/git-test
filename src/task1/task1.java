@@ -6,6 +6,11 @@ import java.util.List;
 public class task1 {
 
 	public static void main(String[] args) {
+		
+		
+		
+		int d;
+		int c;
 
 		List<String> numbers = new ArrayList <> ();
 		numbers.add("one");
